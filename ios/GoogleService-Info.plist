@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>829903230074-vv6sem2sv0mnsgo3gc4rcu0fisda78k6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.829903230074-vv6sem2sv0mnsgo3gc4rcu0fisda78k6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDdmII2koJQ1ZukBxI7ejRTnRrjGwjvths</string>
+	<key>GCM_SENDER_ID</key>
+	<string>829903230074</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.proj21.merchantapp</string>
+	<key>PROJECT_ID</key>
+	<string>cmps-253-proj-21--delivery-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cmps-253-proj-21--delivery-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:829903230074:ios:e4f6dbfcbd6850e1f1d7c3</string>
+	<key>DATABASE_URL</key>
+	<string>https://cmps-253-proj-21--delivery-app-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

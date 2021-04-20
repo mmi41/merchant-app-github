@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829903230074",
+    "project_id": "cmps-253-proj-21--delivery-app",
+    "storage_bucket": "cmps-253-proj-21--delivery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829903230074:android:1e847f05aecfc114f1d7c3",
+        "android_client_info": {
+          "package_name": "com.proj21.merchantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829903230074-4n1d17ck6q1a88jfj2d2jggasvtn3qr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_bnDNR4cR_iqeLpfDCA5e9sNQBG4m48g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829903230074-4n1d17ck6q1a88jfj2d2jggasvtn3qr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
