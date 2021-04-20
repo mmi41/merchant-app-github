@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/macbookpro/AndroidStudioProjects/merchant_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/macbookpro/.gradle/caches/transforms-2/files-2.1/fb04f806008cfecf180bc36c6a7dd723/jetified-play-services-maps-17.0.0/res/values/values.xml",
@@ -42,25 +42,6 @@
                     }
                 },
                 {
-                    "source": "/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,816",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "465,980"
-                    },
-                    "to": {
-                        "startLines": "112,117",
-                        "startColumns": "4,4",
-                        "startOffsets": "8565,8862",
-                        "endLines": "116,119",
-                        "endColumns": "12,12",
-                        "endOffsets": "8857,9026"
-                    }
-                },
-                {
                     "source": "/Users/macbookpro/.gradle/caches/transforms-2/files-2.1/23457c784871587ecad2caf6affc2261/jetified-play-services-base-17.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,33,46",
@@ -97,7 +78,26 @@
                     }
                 },
                 {
-                    "source": "/Users/macbookpro/AndroidStudioProjects/merchant_app/build/app/generated/res/google-services/debug/values/values.xml",
+                    "source": "/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,816",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "465,980"
+                    },
+                    "to": {
+                        "startLines": "112,117",
+                        "startColumns": "4,4",
+                        "startOffsets": "8565,8862",
+                        "endLines": "116,119",
+                        "endColumns": "12,12",
+                        "endOffsets": "8857,9026"
+                    }
+                },
+                {
+                    "source": "/Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/app/generated/res/google-services/debug/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

@@ -1,4 +1,4 @@
-#Sat Apr 17 17:23:58 EEST 2021
-base.0=/Users/macbookpro/AndroidStudioProjects/merchant_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Tue Apr 20 04:20:11 EEST 2021
+base.0=/Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

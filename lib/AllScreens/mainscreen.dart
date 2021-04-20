@@ -86,12 +86,12 @@ class _MainScreenState extends State<MainScreen> with TickerProviderStateMixin{
       "pickup" : pickUpLocMap,
       "dropoff" : dropOffLocMap,
       "created_at" : DateTime.now().toString(),
-      "merchant first name" : userCurrentInfo.firstname,
-      "merchant last name" : userCurrentInfo.lastname,
-      "shop name" : userCurrentInfo.shopname,
-      "merchant phone number" : userCurrentInfo.phone,
-      "shop location" : pickUp.placeName,
-      "dropoff location" : dropOff.placeName,
+      "merchant_first_name" : userCurrentInfo.firstname,
+      "merchant_last_name" : userCurrentInfo.lastname,
+      "shop_name" : userCurrentInfo.shopname,
+      "merchant_phone_number" : userCurrentInfo.phone,
+      "shop_location" : pickUp.placeName,
+      "dropoff_location" : dropOff.placeName,
 
     };
     rideRequestRef.set(rideInfoMap);

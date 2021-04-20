@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/macbookpro/AndroidStudioProjects/merchant_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
+            "outputFile": "/Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
             "map": [
                 {
                     "source": "/Users/macbookpro/.gradle/caches/transforms-2/files-2.1/23457c784871587ecad2caf6affc2261/jetified-play-services-base-17.1.0/res/values-ko/values.xml",

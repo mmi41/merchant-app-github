@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/macbookpro/AndroidStudioProjects/merchant_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml",
+            "outputFile": "/Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml",
             "map": [
                 {
                     "source": "/Users/macbookpro/.gradle/caches/transforms-2/files-2.1/4600e27e70f6025c2b0e0121769e6282/core-1.1.0/res/values-in/values-in.xml",

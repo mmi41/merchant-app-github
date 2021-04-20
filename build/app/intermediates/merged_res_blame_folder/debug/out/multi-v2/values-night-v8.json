@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/macbookpro/AndroidStudioProjects/merchant_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

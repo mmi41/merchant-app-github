@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/macbookpro/AndroidStudioProjects/merchant_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml",
+            "outputFile": "/Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml",
             "map": [
                 {
                     "source": "/Users/macbookpro/.gradle/caches/transforms-2/files-2.1/bd0257e1e25a90d60c60ead0f9089f24/jetified-play-services-basement-17.0.0/res/values-af/values.xml",

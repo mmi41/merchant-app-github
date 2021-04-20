@@ -12,14 +12,14 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:3:5-67
-14-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:3:22-64
+14-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:3:5-67
+14-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:3:22-64
 15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-15-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:4:5-79
-15-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:4:22-76
+15-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:4:5-79
+15-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:4:22-76
 16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
-16-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:5:5-81
-16-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:5:22-78
+16-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:5:5-81
+16-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:5:22-78
 17    <!-- <uses-sdk android:minSdkVersion="14"/> -->
 18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 18-->[com.google.firebase:firebase-database:19.5.0] /Users/macbookpro/.gradle/caches/transforms-2/files-2.1/21717a6f98ac1e73e5710d06e9eb0368/jetified-firebase-database-19.5.0/AndroidManifest.xml:25:5-79
@@ -40,28 +40,28 @@
 25-->[com.google.android.gms:play-services-measurement:17.6.0] /Users/macbookpro/.gradle/caches/transforms-2/files-2.1/b75f907828fa1ec3679f40bafb06fca7/jetified-play-services-measurement-17.6.0/AndroidManifest.xml:26:22-107
 26
 27    <application
-27-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:7:5-46:19
+27-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:7:5-46:19
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 28-->[androidx.core:core:1.1.0] /Users/macbookpro/.gradle/caches/transforms-2/files-2.1/4600e27e70f6025c2b0e0121769e6282/core-1.1.0/AndroidManifest.xml:24:18-86
 29        android:debuggable="true"
 30        android:icon="@mipmap/ic_launcher"
-30-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:9:9-43
+30-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:9:9-43
 31        android:label="merchant_app" >
-31-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:8:9-37
+31-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:8:9-37
 32        <activity
-32-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:10:9-38:20
+32-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:10:9-38:20
 33            android:name="com.proj21.merchant_app.MainActivity"
-33-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:11:13-41
+33-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:11:13-41
 34            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-34-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:14:13-163
+34-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:14:13-163
 35            android:hardwareAccelerated="true"
-35-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:15:13-47
+35-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:15:13-47
 36            android:launchMode="singleTop"
-36-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:12:13-43
+36-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:12:13-43
 37            android:theme="@style/LaunchTheme"
-37-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:13:13-47
+37-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:13:13-47
 38            android:windowSoftInputMode="adjustResize" >
-38-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:16:13-55
+38-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:16:13-55
 39
 40            <!--
 41                 Specifies an Android theme to apply to this Activity as soon as
@@ -70,11 +70,11 @@
 44                 to determine the Window background behind the Flutter UI.
 45            -->
 46            <meta-data
-46-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:21:13-24:17
+46-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:21:13-24:17
 47                android:name="io.flutter.embedding.android.NormalTheme"
-47-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:22:15-70
+47-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:22:15-70
 48                android:resource="@style/NormalTheme" />
-48-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:23:15-52
+48-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:23:15-52
 49            <!--
 50                 Displays an Android View that continues showing the launch screen
 51                 Drawable until Flutter paints its first frame, then this splash
@@ -83,21 +83,21 @@
 54                 Flutter's first frame.
 55            -->
 56            <meta-data
-56-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:30:13-33:17
+56-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:30:13-33:17
 57                android:name="io.flutter.embedding.android.SplashScreenDrawable"
-57-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:31:15-79
+57-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:31:15-79
 58                android:resource="@drawable/launch_background" />
-58-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:32:15-61
+58-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:32:15-61
 59
 60            <intent-filter>
-60-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:34:13-37:29
+60-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:34:13-37:29
 61                <action android:name="android.intent.action.MAIN" />
-61-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:35:17-68
-61-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:35:25-66
+61-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:35:17-68
+61-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:35:25-66
 62
 63                <category android:name="android.intent.category.LAUNCHER" />
-63-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:36:17-76
-63-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:36:27-74
+63-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:36:17-76
+63-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:36:27-74
 64            </intent-filter>
 65        </activity>
 66        <!--
@@ -105,44 +105,44 @@
 68             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 69        -->
 70        <meta-data
-70-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:41:9-43:33
+70-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:41:9-43:33
 71            android:name="flutterEmbedding"
-71-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:42:13-44
+71-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:42:13-44
 72            android:value="2" />
-72-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:43:13-30
+72-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:43:13-30
 73        <meta-data
-73-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:44:8-45:69
+73-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:44:8-45:69
 74            android:name="com.google.android.geo.API_KEY"
-74-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:44:19-64
+74-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:44:19-64
 75            android:value="AIzaSyD_bnDNR4cR_iqeLpfDCA5e9sNQBG4m48g" />
-75-->/Users/macbookpro/AndroidStudioProjects/merchant_app/android/app/src/main/AndroidManifest.xml:45:12-67
+75-->/Users/macbookpro/Desktop/merchant_app/merchant-app-github/android/app/src/main/AndroidManifest.xml:45:12-67
 76
 77        <service
-77-->[:firebase_auth] /Users/macbookpro/AndroidStudioProjects/merchant_app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+77-->[:firebase_auth] /Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
 78            android:name="com.google.firebase.components.ComponentDiscoveryService"
-78-->[:firebase_auth] /Users/macbookpro/AndroidStudioProjects/merchant_app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+78-->[:firebase_auth] /Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
 79            android:directBootAware="true"
 79-->[com.google.firebase:firebase-common:19.3.1] /Users/macbookpro/.gradle/caches/transforms-2/files-2.1/a614303e8dd6b8592848d1b231459d1c/jetified-firebase-common-19.3.1/AndroidManifest.xml:35:13-43
 80            android:exported="false" >
 80-->[com.google.firebase:firebase-auth:19.4.0] /Users/macbookpro/.gradle/caches/transforms-2/files-2.1/fb771c14452f7c919119065f20282404/jetified-firebase-auth-19.4.0/AndroidManifest.xml:35:13-37
 81            <meta-data
-81-->[:firebase_auth] /Users/macbookpro/AndroidStudioProjects/merchant_app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+81-->[:firebase_auth] /Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 82                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-82-->[:firebase_auth] /Users/macbookpro/AndroidStudioProjects/merchant_app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+82-->[:firebase_auth] /Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
 83                android:value="com.google.firebase.components.ComponentRegistrar" />
-83-->[:firebase_auth] /Users/macbookpro/AndroidStudioProjects/merchant_app/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+83-->[:firebase_auth] /Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 84            <meta-data
-84-->[:firebase_database] /Users/macbookpro/AndroidStudioProjects/merchant_app/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+84-->[:firebase_database] /Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 85                android:name="com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar"
-85-->[:firebase_database] /Users/macbookpro/AndroidStudioProjects/merchant_app/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-127
+85-->[:firebase_database] /Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-127
 86                android:value="com.google.firebase.components.ComponentRegistrar" />
-86-->[:firebase_database] /Users/macbookpro/AndroidStudioProjects/merchant_app/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+86-->[:firebase_database] /Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 87            <meta-data
-87-->[:firebase_core] /Users/macbookpro/AndroidStudioProjects/merchant_app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+87-->[:firebase_core] /Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 88                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-88-->[:firebase_core] /Users/macbookpro/AndroidStudioProjects/merchant_app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+88-->[:firebase_core] /Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
 89                android:value="com.google.firebase.components.ComponentRegistrar" />
-89-->[:firebase_core] /Users/macbookpro/AndroidStudioProjects/merchant_app/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+89-->[:firebase_core] /Users/macbookpro/Desktop/merchant_app/merchant-app-github/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 90            <meta-data
 90-->[com.google.firebase:firebase-auth:19.4.0] /Users/macbookpro/.gradle/caches/transforms-2/files-2.1/fb771c14452f7c919119065f20282404/jetified-firebase-auth-19.4.0/AndroidManifest.xml:36:13-38:85
 91                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
