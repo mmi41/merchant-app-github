@@ -219,10 +219,10 @@ class RegistrationScreen extends StatelessWidget {
     if (firebaseUser != null)
     {
       Map userDataMap = {
-        "first name": firstnameTextEditingController.text.trim(),
-        "last name": lastnameTextEditingController.text.trim(),
-        "shop name": shopnameTextEditingController.text.trim(),
-        "shop location": shoplocationTextEditingController.text.trim(),
+        "first_name": firstnameTextEditingController.text.trim(),
+        "last_name": lastnameTextEditingController.text.trim(),
+        "shop_name": shopnameTextEditingController.text.trim(),
+        "shop_location": shoplocationTextEditingController.text.trim(),
         "phone": phoneTextEditingController.text.trim(),
         "email": emailTextEditingController.text.trim(),
       };

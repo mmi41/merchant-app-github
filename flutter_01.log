@@ -1,0 +1,54 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter --no-color run --machine --track-widget-creation --device-id=6fdd016e84d2fef076d4cf5f673d5dafeb1f3e7c --start-paused --dart-define=flutter.inspector.structuredErrors=true --devtools-server-address=http://127.0.0.1:9100 lib/main.dart
+
+## exception
+
+SentinelException: [Sentinel kind: Collected, valueAsString: <collected>] from getIsolate()
+
+```
+```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel master, 2.1.0-13.0.pre.194, on Mac OS X 10.15.7 19H524 darwin-x64, locale en-LB)
+    • Flutter version 2.1.0-13.0.pre.194 at /Users/macbookpro/tools/flutter
+    • Framework revision e58ee0fbc7 (5 weeks ago), 2021-03-22 13:06:06 +0800
+    • Engine revision e6db3a275e
+    • Dart version 2.13.0 (build 2.13.0-149.0.dev)
+
+[✓] Android toolchain - develop for Android devices (Android SDK version 30.0.3)
+    • Android SDK at /Users/macbookpro/Library/Android/sdk
+    • Platform android-30, build-tools 30.0.3
+    • Java binary at: /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/bin/java
+    • Java version OpenJDK Runtime Environment (build 1.8.0_242-release-1644-b3-6915495)
+    • All Android licenses accepted.
+
+[✓] Xcode - develop for iOS and macOS
+    • Xcode at /Applications/Xcode.app/Contents/Developer
+    • Xcode 12.4, Build version 12D4e
+    • CocoaPods version 1.10.1
+
+[✓] Chrome - develop for the web
+    • Chrome at /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+
+[✓] Android Studio (version 4.1)
+    • Android Studio at /Applications/Android Studio.app/Contents
+    • Flutter plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/9212-flutter
+    • Dart plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/6351-dart
+    • Java version OpenJDK Runtime Environment (build 1.8.0_242-release-1644-b3-6915495)
+
+[✓] Connected device (4 available)
+    • Ibra’s iphone (mobile)     • 6fdd016e84d2fef076d4cf5f673d5dafeb1f3e7c • ios            • iOS 14.4.2
+    • iPhone 12 Pro Max (mobile) • BC012CA8-ED34-416F-AAF5-D823E806DD46     • ios            • com.apple.CoreSimulator.SimRuntime.iOS-14-4 (simulator)
+    • macOS (desktop)            • macos                                    • darwin-x64     • Mac OS X 10.15.7 19H524 darwin-x64
+    • Chrome (web)               • chrome                                   • web-javascript • Google Chrome 90.0.4430.85
+
+• No issues found!
+```

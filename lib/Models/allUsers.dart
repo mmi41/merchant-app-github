@@ -15,11 +15,11 @@ class Users{
   Users.fromSnapshot(DataSnapshot dataSnapshot){
     id = dataSnapshot.key;
     email = dataSnapshot.value["email"];
-    firstname = dataSnapshot.value["first name"];
-    lastname = dataSnapshot.value["last name"];
+    firstname = dataSnapshot.value["first_name"];
+    lastname = dataSnapshot.value["last_name"];
     phone = dataSnapshot.value["phone"];
-    shoplocation = dataSnapshot.value["shop location"];
-    shopname = dataSnapshot.value["shop name"];
+    shoplocation = dataSnapshot.value["shop_location"];
+    shopname = dataSnapshot.value["shop_name"];
   }
 
 
